@@ -1,0 +1,23 @@
+# HCAD-Talleres - Archivos a ignorar
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Otter-Grader archivos temporales
+*.log
+*.zip
+dist/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Entregas de estudiantes (no deben subirse aqui)
+*_submission*
