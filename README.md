@@ -68,24 +68,7 @@ Una vez hayas completado todos los ejercicios:
 2. Ve al final del notebook y ejecuta la celda que contiene `grader.export()`. Esto generara un archivo `.zip` en la misma carpeta.
 3. **Renombra** el archivo `.zip` con esta convencion: **`TallerX_tucodigo.zip`**  
    Ejemplo: `Taller1_j.gomez123.zip`
-4. Sube este archivo `.zip` a **Bloque Neon** (o a la plataforma indicada por tu profesor) antes de la fecha limite.
-
----
-
-## Calendario de talleres
-
-| Taller | Semana | Tema | Fecha limite |
-|--------|--------|------|--------------|
-| Taller 1 | S1 | Estructuras de datos: listas, tuplas, diccionarios | Por confirmar |
-| Taller 2 | S1 | Estructuras de control | Por confirmar |
-| Taller 3 | S2 | Funciones | Por confirmar |
-| Taller 4 | S2 | Manejo de archivos y visualizacion | Por confirmar |
-| Taller 5 | S3 | Librerias para manejo de datos | Por confirmar |
-| Taller 6 | S4 | Explorar y modificar bases de datos | Por confirmar |
-| Taller 7 | S5 | Limpiar y unir bases de datos | Por confirmar |
-| Taller 8 | S6 | Visualizacion | Por confirmar |
-| Taller 9 | S6 | Interactividad | Por confirmar |
-| Taller 10 | S7 | Herramientas para analisis estadistico | Por confirmar |
+4. Sube este archivo `.zip` a **Bloque Neon** antes de la fecha limite.
 
 ---
 
@@ -128,5 +111,4 @@ Asegurate de haber instalado otter-grader con `pip install otter-grader` y reini
 
 ## Soporte
 
-*   **Dudas sobre los ejercicios:** Escribe al foro del curso en Bloque Neon.
-*   **Problemas tecnicos con otter-grader:** Escribe al asistente del curso.
+Para **dudas sobre los ejercicios** o **problemas tecnicos con otter-grader**, escribe al asistente del curso.
